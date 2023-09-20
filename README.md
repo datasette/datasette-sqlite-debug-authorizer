@@ -29,6 +29,7 @@ SQLITE_READ:  table="sqlite_master" column="tbl_name" db_name=main
 SQLITE_READ:  table="sqlite_master" column="rootpage" db_name=main
 SQLITE_READ:  table="sqlite_master" column="sql" db_name=main
 ```
+See [sqlite-authorizer-examples](https://github.com/simonw/sqlite-authorizer-examples) for more detailed documentation on what to expect from these calls.
 
 ## Development
 
