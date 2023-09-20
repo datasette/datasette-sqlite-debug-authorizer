@@ -1,9 +1,9 @@
 # datasette-sqlite-debug-authorizer
 
 [![PyPI](https://img.shields.io/pypi/v/datasette-sqlite-debug-authorizer.svg)](https://pypi.org/project/datasette-sqlite-debug-authorizer/)
-[![Changelog](https://img.shields.io/github/v/release/simonw/datasette-sqlite-debug-authorizer?include_prereleases&label=changelog)](https://github.com/simonw/datasette-sqlite-debug-authorizer/releases)
-[![Tests](https://github.com/simonw/datasette-sqlite-debug-authorizer/workflows/Test/badge.svg)](https://github.com/simonw/datasette-sqlite-debug-authorizer/actions?query=workflow%3ATest)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/simonw/datasette-sqlite-debug-authorizer/blob/main/LICENSE)
+[![Changelog](https://img.shields.io/github/v/release/datasette/datasette-sqlite-debug-authorizer?include_prereleases&label=changelog)](https://github.com/datasette/datasette-sqlite-debug-authorizer/releases)
+[![Tests](https://github.com/datasette/datasette-sqlite-debug-authorizer/workflows/Test/badge.svg)](https://github.com/datasette/datasette-sqlite-debug-authorizer/actions?query=workflow%3ATest)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/datasette/datasette-sqlite-debug-authorizer/blob/main/LICENSE)
 
 Debug SQLite authorizer calls
 
